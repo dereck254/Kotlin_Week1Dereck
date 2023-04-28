@@ -1,4 +1,4 @@
-fun main(args: Array<String>) {
+//fun main(args: Array<String>) {
 
 //Int
 //Strings
@@ -7,16 +7,10 @@ fun main(args: Array<String>) {
 //Float
 //Double
 
-    var city:String = "Nairobi" //String
-    var age:Int = 20   //Int
-    var domain:Char = 'K'  // Char
-    var status:Boolean = true //Boolean
-    var temperature:Float = 35.9F
-    var results:Double = 23.54678
-
-
-
-
-
-
-}
+    //var city:String = "Nairobi" //String
+    //var age:Int = 20   //Int
+    //var domain:Char = 'K'  // Char
+    //var status:Boolean = true //Boolean
+    //var temperature:Float = 35.9F
+   // var results:Double = 23.54678
+//}
