@@ -1,14 +1,14 @@
-//fun main(args: Array<String>) {
+fun main(args: Array<String>) {
 
-  //  displaymessage()
-    //sayhello()
+    displaymessage()
+    sayhello()
 
-//}
+}
 
-//fun displaymessage() {
-  //  println("Hello its a rainyday")
-//}
+fun displaymessage() {
+    println("Hello its a rainyday")
+}
 
-//fun  sayhello() {
-  //  println("Hello class")
-//}
+fun  sayhello() {
+    println("Hello class")
+}
